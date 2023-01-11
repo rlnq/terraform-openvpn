@@ -1,6 +1,6 @@
-# This terraform projects creates EC2 instance with script that install and configure OpenVPN and Apache web-server
+# This terraform project creates an EC2 instance with a script that installs and configures an OpenVPN and Apache web-server
 
-This terraform projects automatically creates EC2 instance on Ubuntu 22.04 distro in Frankfurt region.
+This terraform project automatically creates an EC2 instance on the Ubuntu 22.04 distribution in the Frankfurt region.
 
 This script automatically installs and configures OpenVPN on UDP port 1194, then installs and reconfigures the Apache web server to allow client file uploads without going to the server
 
@@ -45,11 +45,11 @@ This script automatically installs and configures OpenVPN on UDP port 1194, then
 
 * #### Wait a few minutes and download the client file at: # *http://*your_public_ip*/config*
 
-> Your public ip will be appears at the end of `terraform apply` or you can use command `terraform output`
+> Your public IP address will appear at the end of `terraform apply` or you can use the `terraform output` command
 
 * Download *OpenVPN Connect* from [official website](https://openvpn.net/) and import your client file
 
--------------------------------------------------------------------------------------------------------->
+-------------------------------------------------------------------------------------------------------------------------------------->
 
 * #### Manage your infrastructure:
 
