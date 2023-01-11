@@ -17,7 +17,6 @@ sudo apt install apache2 -y
 
 
 apacheconf=/etc/apache2/sites-available/000-default.conf
-#testtest=/home/ubuntu/testtest.txt
 
 cat<<EOF>$apacheconf
 <VirtualHost *:80>
