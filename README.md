@@ -43,7 +43,7 @@ This script automatically installs and configures OpenVPN on UDP port 1194, then
 
 > Type `terraform apply`, and press Enter. This will create the specified infrastructure.
 
-* #### Wait a few minutes and download the client file at: *http://*your_public_ip*/config*
+* #### Wait a few minutes and download the client file at: *`http://your_public_ip/config`*
 
 > Your public IP address will appear at the end of `terraform apply` or you can use the `terraform output` command
 
