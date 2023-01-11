@@ -49,7 +49,7 @@ This script automatically installs and configures OpenVPN on UDP port 1194, then
 
 * Download *OpenVPN Connect* from [official website](https://openvpn.net/) and import your client file
 
--------------------------------------------------------------------------------------------------------------------------------------->
+-------------------------------------------------------------------------------------------------------------------->
 
 * #### Manage your infrastructure:
 
