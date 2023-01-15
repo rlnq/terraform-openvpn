@@ -1,4 +1,4 @@
-# This terraform project creates an EC2 instance with a script that installs and configures an OpenVPN and Apache web-server
+# This terraform project automatically creates an OpenVPN server and allows you to upload the client file through an Apache server 
 
 This terraform project automatically creates an EC2 instance on the Ubuntu 22.04 distribution in the Frankfurt region.
 
